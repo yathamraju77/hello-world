@@ -1,2 +1,2 @@
 # hello-world
-its a samole repository
+its a sample repository
